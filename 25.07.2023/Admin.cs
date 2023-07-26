@@ -11,11 +11,9 @@ namespace _25._07._2023
 		{
 			IsSuperAdmin = ısSuperAdmin;
 			Section = section;
-
 		}
-	
+        
 
-
-	}
+    }
 }
 
