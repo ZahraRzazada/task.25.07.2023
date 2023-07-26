@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{86E79BBC-3A6B-4A1B-9075-FB2756F54C50}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.25.07.2023 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="25.07.2023/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="25.07.2023/Program.cs">
     <Files>
-      <File FileName="25.07.2023/User.cs" Line="26" Column="31" IsPinned="True" />
-      <File FileName="25.07.2023/Admin.cs" Line="20" Column="9" />
-      <File FileName="25.07.2023/Program.cs" Line="9" Column="31" />
+      <File FileName="25.07.2023/User.cs" Line="9" Column="28" IsPinned="True" />
+      <File FileName="25.07.2023/Admin.cs" Line="1" Column="1" />
+      <File FileName="25.07.2023/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

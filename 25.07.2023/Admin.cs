@@ -12,8 +12,12 @@ namespace _25._07._2023
 			IsSuperAdmin = ısSuperAdmin;
 			Section = section;
 		}
-        
+		public void GetInfo()
+		{
+			Console.WriteLine($"Name:{Name},  Pasword:{Pasword},  {(IsSuperAdmin ? "Super admindir":"Super Admin deyil")},  Section:{Section}");
 
+        }
+        
     }
 }
 
